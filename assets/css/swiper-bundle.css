@@ -40,6 +40,7 @@
   display: flex;
   transition-property: transform;
   box-sizing: content-box;
+  align-items: center;
 }
 .swiper-container-android .swiper-slide,
 .swiper-wrapper {
