@@ -105,9 +105,9 @@
 
                     <!-- about area start -->
                     <div class="tp-about-area tp-about-bg p-relative grey-bg pb-150" style="padding: 8rem 0 8rem 0;">
-                        <div class="tp-about-big-text d-none d-xl-block">
+                        <!-- <div class="tp-about-big-text d-none d-xl-block">
                             <h6>About Us</h6>
-                        </div>
+                        </div> -->
                         <div class="container">
                             <div class="row align-items-end">
                                 <div class="col-xl-6 col-lg-6 order-1 order-lg-0">

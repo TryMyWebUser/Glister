@@ -9366,7 +9366,7 @@ body .ui-tooltip {
 }
 .tp-slider-3-title {
   color: var(--tp-common-white);
-  font-size: 110px;
+  font-size: 60px;
   font-weight: 400;
 }
 @media only screen and (min-width: 1600px) and (max-width: 1700px) {
@@ -9428,9 +9428,8 @@ body .ui-tooltip {
 .tp-slider-3-big-text {
   color: var(--tp-theme-1);
   font-family: Satisfy;
-  font-size: 115px;
+  font-size: 70px;
   font-weight: 400;
-  margin-left: -70px;
   text-transform: capitalize;
   margin-bottom: 3px;
   font-family: var(--tp-ff-satisfy);

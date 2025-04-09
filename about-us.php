@@ -40,10 +40,10 @@
                     <!-- breadcrumb area end -->
 
                     <!-- about area start -->
-                    <div class="tp-about-area tp-about-bg p-relative grey-bg pb-150" style="padding: 8rem 0 8rem 0;">
-                        <div class="tp-about-big-text d-none d-xl-block">
+                    <div class="tp-about-area tp-about-bg p-relative grey-bg pb-150" style="padding: 8rem 0 0 0;">
+                        <!-- <div class="tp-about-big-text d-none d-xl-block">
                             <h6>About Us</h6>
-                        </div>
+                        </div> -->
                         <div class="container">
                             <div class="row align-items-end">
                                 <div class="col-xl-6 col-lg-6 order-1 order-lg-0 align-self-center">
@@ -92,40 +92,12 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tp-about-title-box mt-100">
-                                <!-- <span class="tp-section-subtitle tp-split-text tp-split-in-right">About Us</span> -->
-                                <h3 class="tp-section-title tp-split-text tp-split-in-right">Certificate</h3>
-                            </div>
-                            <div class="row">
-                                <div class="col-xl-6 col-lg-6 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
-                                    <div class="tp-about-thumb-boxs z-index text-center mt-80">
-                                        <div class="tp-hover-distort-wrapper">
-                                            <div class="canvas"></div>
-                                            <div class="tp-hover-distort" data-displacementImage="assets/img/webgl/10.jpg">
-                                                <img class="tp-hover-distort-img front" src="assets/Glister/Brancs India Dealer certificate.jpg" alt="" />
-                                                <img class="tp-hover-distort-img back" src="assets/Glister/Brancs India Dealer certificate.jpg" alt="" />
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-6 col-lg-6 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
-                                    <div class="tp-about-thumb-boxs z-index text-center mt-80">
-                                        <div class="tp-hover-distort-wrapper">
-                                            <div class="canvas"></div>
-                                            <div class="tp-hover-distort" data-displacementImage="assets/img/webgl/10.jpg">
-                                                <img class="tp-hover-distort-img front" src="assets/Glister/certificate.jpg" alt="" />
-                                                <img class="tp-hover-distort-img back" src="assets/Glister/certificate.jpg" alt="" />
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                     <!-- about area end -->
 
                     <!-- expart-feature area start -->
-                    <div class="tp-exp-fea-area fix pb-200">
+                    <div class="tp-exp-fea-area fix pb-100 pt-100">
                         <div class="container">
                             <div class="row">
                                 <div class="col-xl-12">
@@ -162,6 +134,34 @@
                                                     <li><i class="fa-solid fa-check"></i>We have all standard tools stock at coimbatore office so will deliver with in hours time.</li>
                                                     <li><i class="fa-solid fa-check"></i>We have gained impetus as one of the professionally managed organization, offering high quality tools that improve productivity besides adding value through functionality, smooth operations and Good Service support.</li>
                                                 </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tp-about-title-box pt-100">
+                                <!-- <span class="tp-section-subtitle tp-split-text tp-split-in-right">About Us</span> -->
+                                <h3 class="tp-section-title tp-split-text tp-split-in-right">Certificate</h3>
+                            </div>
+                            <div class="row">
+                                <div class="col-xl-6 col-lg-6 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
+                                    <div class="tp-about-thumb-boxs z-index text-center mt-80">
+                                        <div class="tp-hover-distort-wrapper">
+                                            <div class="canvas"></div>
+                                            <div class="tp-hover-distort" data-displacementImage="assets/img/webgl/10.jpg">
+                                                <img class="tp-hover-distort-img front" src="assets/Glister/Brancs India Dealer certificate.jpg" alt="" />
+                                                <img class="tp-hover-distort-img back" src="assets/Glister/Brancs India Dealer certificate.jpg" alt="" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
+                                    <div class="tp-about-thumb-boxs z-index text-center mt-80">
+                                        <div class="tp-hover-distort-wrapper">
+                                            <div class="canvas"></div>
+                                            <div class="tp-hover-distort" data-displacementImage="assets/img/webgl/10.jpg">
+                                                <img class="tp-hover-distort-img front" src="assets/Glister/certificate.jpg" alt="" />
+                                                <img class="tp-hover-distort-img back" src="assets/Glister/certificate.jpg" alt="" />
                                             </div>
                                         </div>
                                     </div>
